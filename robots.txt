@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://scrapestack.dev/sitemap.xml
+Sitemap: https://superearns.com/sitemap.xml
